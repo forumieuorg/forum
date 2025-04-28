@@ -1,1 +1,1 @@
-http://forumi.eu.org Georgian forum php script, php version 7.1 and 7.2
+http://bmuli.ge ქართული ფორუმის php სკრიპტი, php ვერსია 7.1 და 7.2
